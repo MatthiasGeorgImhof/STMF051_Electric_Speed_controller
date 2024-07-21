@@ -1,0 +1,127 @@
+(footprint "TestPoint_THTPad_6.0x6.0mm_Drill1.0mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "THT rectangular pad as test Point, square 4.0mm  side length, hole diameter 2.0mm")
+	(tags "test point THT pad rectangle square")
+	(property "Reference" "REF**"
+		(at 0 -2.898 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "52865b9e-9f61-40a3-b411-e357ec6e8594")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TestPoint_THTPad_6.0x6.0mm_Drill1.0mm"
+		(at 0 3.1 0)
+		(layer "F.Fab")
+		(uuid "4e8d1c61-9063-4adf-b6d8-c49c9f8b0b53")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f34ef249-33b9-4e16-b9e5-a5a36ea8ad27")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3356abd2-86b5-41d8-b04d-caf7a2e7adef")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c087a0fa-b596-4f7f-a055-e2bb673c446e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(fp_rect
+		(start -3.5 -4.84)
+		(end 3.5 0)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "B.CrtYd")
+		(uuid "833e42f8-c4c7-4268-a09f-0a4c323d59f2")
+	)
+	(fp_rect
+		(start -3.5 -4.84)
+		(end 3.5 0)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "6164b4f2-773e-4699-b064-b12aa9b88849")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -2.9 0)
+		(layer "F.Fab")
+		(uuid "0d65bddf-4f65-4b86-9c04-2fc882fce795")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 0)
+		(size 6 4)
+		(drill 4
+			(offset 0 -2)
+		)
+		(property pad_prop_castellated)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.5)
+		(chamfer_ratio 0)
+		(chamfer bottom_left bottom_right)
+		(uuid "b072fcff-ad17-410c-820c-f12dc48dc3aa")
+	)
+	(pad "1" thru_hole circle
+		(at 0.01 -3.18)
+		(size 1.5 1.5)
+		(drill 1)
+		(property pad_prop_castellated)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "30d4391c-7e45-4847-b2c8-ae7605275cc5")
+	)
+)
