@@ -4679,7 +4679,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Vishay"
+		(property "Manufacturer" "Lite-On"
 			(at 139.7 85.09 0)
 			(effects
 				(font
@@ -4688,7 +4688,16 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "VLMO1500-GS08 "
+		(property "Part Number" "LTST-C191KFKT"
+			(at 139.7 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "2"
 			(at 139.7 85.09 0)
 			(effects
 				(font
@@ -10412,7 +10421,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Vishay"
+		(property "Manufacturer" "Lite-On"
 			(at 139.7 166.37 0)
 			(effects
 				(font
@@ -10421,7 +10430,16 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "VLMO1500-GS08 "
+		(property "Part Number" "LTST-C191KFKT"
+			(at 139.7 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "2"
 			(at 139.7 166.37 0)
 			(effects
 				(font

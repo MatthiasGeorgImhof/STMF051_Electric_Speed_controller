@@ -4614,7 +4614,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Vishay"
+		(property "Manufacturer" "Lite-On"
 			(at 105.41 184.15 0)
 			(effects
 				(font
@@ -4623,7 +4623,16 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "VLMG1500-GS08"
+		(property "Part Number" "LTST-C191GKT"
+			(at 105.41 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "2"
 			(at 105.41 184.15 0)
 			(effects
 				(font
@@ -6528,7 +6537,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SMBJ28A"
+		(property "Value" "1.5SMBJ26A-H "
 			(at 54.61 30.4799 90)
 			(effects
 				(font
@@ -6565,6 +6574,33 @@
 			)
 		)
 		(property "Manufacturer" "Bournes"
+			(at 52.07 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "1.5SMBJ26A-H "
+			(at 52.07 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "42"
+			(at 52.07 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Amps" "35"
 			(at 52.07 29.21 0)
 			(effects
 				(font
@@ -7723,7 +7759,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Vishay"
+		(property "Manufacturer" "Lite-On"
 			(at 87.63 184.15 0)
 			(effects
 				(font
@@ -7732,7 +7768,16 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "VLMG1500-GS08"
+		(property "Part Number" "LTST-C191GKT"
+			(at 87.63 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "2"
 			(at 87.63 184.15 0)
 			(effects
 				(font
@@ -8821,7 +8866,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Vishay"
+		(property "Manufacturer" "Lite-On"
 			(at 123.19 184.15 0)
 			(effects
 				(font
@@ -8830,7 +8875,16 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "VLMG1500-GS08"
+		(property "Part Number" "LTST-C191GKT"
+			(at 123.19 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "2"
 			(at 123.19 184.15 0)
 			(effects
 				(font

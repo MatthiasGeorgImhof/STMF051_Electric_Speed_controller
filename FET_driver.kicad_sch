@@ -3794,6 +3794,24 @@
 				(hide yes)
 			)
 		)
+		(property "Amps" "4"
+			(at 101.6 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "40"
+			(at 101.6 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e24714ee-b5f6-47d0-bfd4-72e950043d0d")
 		)
@@ -4160,6 +4178,24 @@
 			)
 		)
 		(property "Part Number" "SDM4A40EP3-7B"
+			(at 166.37 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Amps" "4"
+			(at 166.37 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "40"
 			(at 166.37 50.8 0)
 			(effects
 				(font
@@ -5052,6 +5088,24 @@
 			)
 		)
 		(property "Part Number" "SDM4A40EP3-7B"
+			(at 101.6 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Amps" "4"
+			(at 101.6 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "40"
 			(at 101.6 124.46 0)
 			(effects
 				(font
@@ -6636,6 +6690,24 @@
 				(hide yes)
 			)
 		)
+		(property "Amps" "4"
+			(at 233.68 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "40"
+			(at 233.68 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "deb34e03-3943-48e2-9b2e-770b5e431e11")
 		)
@@ -7725,6 +7797,24 @@
 				(hide yes)
 			)
 		)
+		(property "Amps" "4"
+			(at 233.68 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "40"
+			(at 233.68 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8c7a8187-2fe6-4c55-bcbd-e8e23108d6ba")
 		)
@@ -8012,6 +8102,24 @@
 			)
 		)
 		(property "Part Number" "SDM4A40EP3-7B"
+			(at 166.37 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Amps" "4"
+			(at 166.37 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "40"
 			(at 166.37 124.46 0)
 			(effects
 				(font

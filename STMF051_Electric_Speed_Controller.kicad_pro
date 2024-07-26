@@ -680,7 +680,7 @@
           "group_by": false,
           "label": "Amps",
           "name": "Amps",
-          "show": false
+          "show": true
         }
       ],
       "filter_string": "",
