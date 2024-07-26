@@ -4652,7 +4652,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ProjectLibrary:LED_0402_1005Metric"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 139.7 85.09 0)
 			(effects
 				(font
@@ -10385,7 +10385,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ProjectLibrary:LED_0402_1005Metric"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 139.7 166.37 0)
 			(effects
 				(font
