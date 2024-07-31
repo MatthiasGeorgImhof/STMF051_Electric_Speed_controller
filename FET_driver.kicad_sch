@@ -5150,7 +5150,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProjectLibrary:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 137.16 144.272 90)
 			(effects
 				(font
@@ -5473,7 +5473,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProjectLibrary:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 137.16 108.712 90)
 			(effects
 				(font
@@ -6111,7 +6111,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProjectLibrary:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 137.16 71.882 90)
 			(effects
 				(font
