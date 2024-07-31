@@ -17,7 +17,7 @@
     "selection_filter": {
       "dimensions": false,
       "footprints": false,
-      "graphics": false,
+      "graphics": true,
       "keepouts": false,
       "lockedItems": false,
       "otherItems": false,
@@ -63,7 +63,7 @@
       39,
       40
     ],
-    "visible_layers": "8005000_7ffffff9",
+    "visible_layers": "8009000_fffffff9",
     "zone_display_mode": 0
   },
   "git": {
