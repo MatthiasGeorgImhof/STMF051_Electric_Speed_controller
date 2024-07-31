@@ -2153,7 +2153,7 @@
 		(at 46.99 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "05e0ac00-8e80-4005-b6b5-a4065f767bac")
+		(uuid "055349d1-4aed-4804-a028-a0c4b80e3946")
 	)
 	(junction
 		(at 180.34 129.54)
@@ -3525,6 +3525,16 @@
 		)
 		(uuid "fd55ab90-c562-41ff-a77b-568b9477bf73")
 	)
+	(text "Switched HIN1 and HIN3 for routing"
+		(exclude_from_sim no)
+		(at 134.62 153.162 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9d385b1d-28c9-4527-947a-9a9f0003cb22")
+	)
 	(label "SENSE_COM_A"
 		(at 115.57 45.72 0)
 		(fields_autoplaced yes)
@@ -4053,7 +4063,7 @@
 			)
 		)
 	)
-	(global_label "HIN1_B"
+	(global_label "HIN3_B"
 		(shape output)
 		(at 119.38 144.78 0)
 		(fields_autoplaced yes)
@@ -4065,7 +4075,7 @@
 		)
 		(uuid "834480f0-e9f6-4000-a45d-4d6688d6044e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 128.8967 144.78 0)
+			(at 129.0781 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4317,7 +4327,7 @@
 			)
 		)
 	)
-	(global_label "HIN1_A"
+	(global_label "HIN3_A"
 		(shape output)
 		(at 119.38 63.5 0)
 		(fields_autoplaced yes)
@@ -4361,7 +4371,7 @@
 			)
 		)
 	)
-	(global_label "HIN3_B"
+	(global_label "HIN1_B"
 		(shape output)
 		(at 119.38 149.86 0)
 		(fields_autoplaced yes)
@@ -4373,7 +4383,7 @@
 		)
 		(uuid "be04523b-d6b8-4994-94fa-4d4737060b58")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 128.8967 149.86 0)
+			(at 129.0781 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4493,7 +4503,7 @@
 			)
 		)
 	)
-	(global_label "HIN3_A"
+	(global_label "HIN1_A"
 		(shape output)
 		(at 119.38 68.58 0)
 		(fields_autoplaced yes)
@@ -4747,7 +4757,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "ProjectLibrary:R_0201_0603Metric"
 			(at 133.35 131.318 90)
 			(effects
 				(font
@@ -5124,7 +5134,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ProjectLibrary:TestPoint_Pad_1.0x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 269.24 123.19 0)
 			(effects
 				(font
@@ -5173,7 +5183,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f745ade-13d1-40bb-a912-c98ab5930b3a")
-		(property "Reference" "TP5"
+		(property "Reference" "TP7"
 			(at 267.97 66.5479 0)
 			(effects
 				(font
@@ -5225,7 +5235,7 @@
 		(instances
 			(project "ESC BB21"
 				(path "/d268946a-c85a-4346-a268-ba5c3792dae2/5e2b3671-fed0-4935-9c17-db0f22bc8892"
-					(reference "TP5")
+					(reference "TP7")
 					(unit 1)
 				)
 			)
@@ -5341,7 +5351,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "ProjectLibrary:R_0201_0603Metric"
 			(at 135.89 164.338 90)
 			(effects
 				(font
@@ -5430,7 +5440,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ProjectLibrary:TestPoint_Pad_1.0x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 269.24 130.81 0)
 			(effects
 				(font
@@ -5726,7 +5736,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ed8ffe5-3632-4879-a66e-bf7b5a234686")
-		(property "Reference" "TP7"
+		(property "Reference" "TP6"
 			(at 267.97 60.1979 0)
 			(effects
 				(font
@@ -5745,7 +5755,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ProjectLibrary:TestPoint_Pad_1.0x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 270.51 63.5 0)
 			(effects
 				(font
@@ -5778,7 +5788,7 @@
 		(instances
 			(project "ESC BB21"
 				(path "/d268946a-c85a-4346-a268-ba5c3792dae2/5e2b3671-fed0-4935-9c17-db0f22bc8892"
-					(reference "TP7")
+					(reference "TP6")
 					(unit 1)
 				)
 			)
@@ -6409,7 +6419,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ProjectLibrary:TestPoint_Pad_1.0x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 270.51 48.26 0)
 			(effects
 				(font
@@ -6545,7 +6555,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ProjectLibrary:TestPoint_Pad_1.0x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 269.24 115.57 0)
 			(effects
 				(font
@@ -6727,7 +6737,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ProjectLibrary:TestPoint_Pad_1.0x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 269.24 138.43 0)
 			(effects
 				(font
@@ -6761,6 +6771,103 @@
 			(project "ESC BB21"
 				(path "/d268946a-c85a-4346-a268-ba5c3792dae2/5e2b3671-fed0-4935-9c17-db0f22bc8892"
 					(reference "TP11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Project_Library:EVP-AA602W")
+		(at 46.99 45.72 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "50d697e3-9df5-4995-98b6-e8cb1fcd36a0")
+		(property "Reference" "SW1"
+			(at 37.846 41.656 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "EVPAA602"
+			(at 41.91 40.64 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "ProjectLibrary:EVPAA602"
+			(at 46.99 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "EVP-AA602W"
+			(at 46.99 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 46.99 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 46.99 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "EVP-AA602W"
+			(at 46.99 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "a4002aad-be18-4518-a1e1-cb8e07e5c621")
+		)
+		(pin "2"
+			(uuid "f0b89977-1d04-491d-9c11-ac286d38800e")
+		)
+		(pin "3"
+			(uuid "4385a761-7f99-429c-87d8-5623dc7b7340")
+		)
+		(pin "1"
+			(uuid "b82996bc-a0de-4dff-99be-6e7779cbe384")
+		)
+		(instances
+			(project "STMF051_Electric_Speed_Controller"
+				(path "/d268946a-c85a-4346-a268-ba5c3792dae2/5e2b3671-fed0-4935-9c17-db0f22bc8892"
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -6919,102 +7026,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Project_Library:EVP-AA602W")
-		(at 46.99 48.26 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "600b426a-de38-4b1a-801c-b42742666010")
-		(property "Reference" "SW1"
-			(at 37.846 52.324 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "EVPAA602"
-			(at 41.91 53.34 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "ProjectLibrary:EVPAA602"
-			(at 46.99 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "EVP-AA602W"
-			(at 46.99 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 46.99 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 46.99 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" "EVP-AA602W"
-			(at 46.99 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "1b974f61-f197-4c64-a0a2-997b071578cd")
-		)
-		(pin "2"
-			(uuid "d60f9750-e6a7-4e4c-9f55-440bb25f5ff8")
-		)
-		(pin "3"
-			(uuid "ee455fb8-9e7b-4a8f-9c95-540723db0a17")
-		)
-		(pin "1"
-			(uuid "64608727-d022-42b5-bec6-765b85cdcd2d")
-		)
-		(instances
-			(project "ESC BB21"
-				(path "/d268946a-c85a-4346-a268-ba5c3792dae2/5e2b3671-fed0-4935-9c17-db0f22bc8892"
-					(reference "SW1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_name "GND_2")
 		(lib_id "power:GND")
 		(at 121.92 34.29 0)
@@ -7107,7 +7118,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "ProjectLibrary:R_0201_0603Metric"
 			(at 135.89 83.058 90)
 			(effects
 				(font
@@ -8291,7 +8302,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "ProjectLibrary:R_0201_0603Metric"
 			(at 133.35 50.038 90)
 			(effects
 				(font
@@ -9399,7 +9410,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "ProjectLibrary:R_0201_0603Metric"
 			(at 45.212 133.35 90)
 			(effects
 				(font
@@ -9993,7 +10004,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ProjectLibrary:TestPoint_Pad_1.0x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 270.51 40.64 0)
 			(effects
 				(font
@@ -10212,7 +10223,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "ProjectLibrary:R_0201_0603Metric"
 			(at 45.212 52.07 90)
 			(effects
 				(font
@@ -10737,7 +10748,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f3a8add3-a7a2-4318-9467-99516bf80b22")
-		(property "Reference" "TP6"
+		(property "Reference" "TP5"
 			(at 267.97 52.5779 0)
 			(effects
 				(font
@@ -10756,7 +10767,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ProjectLibrary:TestPoint_Pad_1.0x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 270.51 55.88 0)
 			(effects
 				(font
@@ -10789,7 +10800,7 @@
 		(instances
 			(project "ESC BB21"
 				(path "/d268946a-c85a-4346-a268-ba5c3792dae2/5e2b3671-fed0-4935-9c17-db0f22bc8892"
-					(reference "TP6")
+					(reference "TP5")
 					(unit 1)
 				)
 			)
