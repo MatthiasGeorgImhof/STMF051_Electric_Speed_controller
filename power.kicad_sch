@@ -5103,7 +5103,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "Murata"
 			(at 80.01 96.52 0)
 			(effects
 				(font
@@ -5112,7 +5112,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KRX5R7BB225 "
+		(property "Part Number" "GRM155R6YA225KE11D"
 			(at 80.01 96.52 0)
 			(effects
 				(font
@@ -5121,7 +5121,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "16"
+		(property "Voltage" "35"
 			(at 80.01 96.52 0)
 			(effects
 				(font
@@ -5980,7 +5980,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "Murata"
 			(at 100.33 110.49 0)
 			(effects
 				(font
@@ -5989,7 +5989,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KRX5R7BB104"
+		(property "Part Number" "GRM155R61H104KE14D"
 			(at 100.33 110.49 0)
 			(effects
 				(font
@@ -5998,7 +5998,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "16"
+		(property "Voltage" "50"
 			(at 100.33 110.49 0)
 			(effects
 				(font
@@ -6814,7 +6814,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/1-5smbj.pdf"
 			(at 62.23 29.21 0)
 			(effects
 				(font
@@ -8159,7 +8159,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KRX5R7BB104"
+		(property "Part Number" "GRM155R61H104KE14D"
 			(at 88.9 139.7 0)
 			(effects
 				(font
@@ -8168,7 +8168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "16"
+		(property "Voltage" "50"
 			(at 88.9 139.7 0)
 			(effects
 				(font
@@ -8195,7 +8195,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "Murata"
 			(at 88.9 139.7 0)
 			(effects
 				(font
@@ -9578,7 +9578,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KRX5R7BB104"
+		(property "Part Number" "GRM155R61H104KE14D"
 			(at 189.23 140.97 0)
 			(effects
 				(font
@@ -9587,7 +9587,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "16"
+		(property "Voltage" "50"
 			(at 189.23 140.97 0)
 			(effects
 				(font
@@ -9614,7 +9614,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "Murata"
 			(at 189.23 140.97 0)
 			(effects
 				(font
@@ -9916,7 +9916,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "INA190A4IDCKR"
+		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fina190"
 			(at 101.6 35.56 0)
 			(effects
 				(font
@@ -10101,7 +10101,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "Murata"
 			(at 161.29 95.25 0)
 			(effects
 				(font
@@ -10110,7 +10110,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KRX5R7BB104"
+		(property "Part Number" "GRM155R61H104KE14D"
 			(at 161.29 95.25 0)
 			(effects
 				(font
@@ -10119,7 +10119,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "16"
+		(property "Voltage" "50"
 			(at 161.29 95.25 0)
 			(effects
 				(font
@@ -11250,7 +11250,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GRM155R61E102KA01D"
+		(property "Part Number" "GRM155R61H102KA01D"
 			(at 231.14 97.79 0)
 			(effects
 				(font
@@ -11260,6 +11260,15 @@
 			)
 		)
 		(property "Tolerance" "10%"
+			(at 231.14 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "50"
 			(at 231.14 97.79 0)
 			(effects
 				(font
@@ -11320,7 +11329,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "MAX20008AFOC/VY+T"
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX20004-MAX20008.pdf"
 			(at 146.05 86.36 0)
 			(effects
 				(font

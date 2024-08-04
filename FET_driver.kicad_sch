@@ -4010,7 +4010,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/SDM4A40EP3.pdf"
 			(at 118.11 52.07 0)
 			(effects
 				(font
@@ -4056,6 +4056,15 @@
 			)
 		)
 		(property "Voltage" "40"
+			(at 118.11 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" "SDT4U40EP3-7B "
 			(at 118.11 52.07 0)
 			(effects
 				(font
@@ -4174,7 +4183,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 92.4052 109.22 0)
 			(effects
 				(font
@@ -4201,7 +4210,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GRM155R61E102KA01D"
+		(property "Part Number" "GRM21BR61H106KE43L"
 			(at 91.44 105.41 0)
 			(effects
 				(font
@@ -4210,7 +4219,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "Murata"
 			(at 91.44 105.41 0)
 			(effects
 				(font
@@ -4219,7 +4228,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "10"
+		(property "Voltage" "50"
 			(at 91.44 105.41 0)
 			(effects
 				(font
@@ -4411,7 +4420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/SDM4A40EP3.pdf"
 			(at 118.11 88.9 0)
 			(effects
 				(font
@@ -4465,6 +4474,15 @@
 				(hide yes)
 			)
 		)
+		(property "Note" "SDT4U40EP3-7B "
+			(at 118.11 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bdd9789f-0315-4f05-89e4-21f4868d9031")
 		)
@@ -4497,7 +4515,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "47"
 			(at 229.87 108.204 90)
 			(effects
 				(font
@@ -4541,7 +4559,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0710RL"
+		(property "Part Number" "RC0603FR-0747RL"
 			(at 229.87 110.49 0)
 			(effects
 				(font
@@ -5160,7 +5178,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "47"
 			(at 137.16 143.764 90)
 			(effects
 				(font
@@ -5204,7 +5222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0710RL"
+		(property "Part Number" "RC0603FR-0747RL"
 			(at 137.16 146.05 0)
 			(effects
 				(font
@@ -5339,7 +5357,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/SDM4A40EP3.pdf"
 			(at 210.82 52.07 0)
 			(effects
 				(font
@@ -5385,6 +5403,15 @@
 			)
 		)
 		(property "Voltage" "40"
+			(at 210.82 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" "SDT4U40EP3-7B "
 			(at 210.82 52.07 0)
 			(effects
 				(font
@@ -5492,7 +5519,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "47"
 			(at 137.16 108.204 90)
 			(effects
 				(font
@@ -5536,7 +5563,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0710RL"
+		(property "Part Number" "RC0603FR-0747RL"
 			(at 137.16 110.49 0)
 			(effects
 				(font
@@ -5914,7 +5941,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://static.qingshow.net/fortiortech/file/1597746029372.pdf"
 			(at 50.8 50.8 0)
 			(effects
 				(font
@@ -6139,7 +6166,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "47"
 			(at 137.16 71.374 90)
 			(effects
 				(font
@@ -6183,7 +6210,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0710RL"
+		(property "Part Number" "RC0603FR-0747RL"
 			(at 137.16 73.66 0)
 			(effects
 				(font
@@ -6367,7 +6394,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "47"
 			(at 229.87 55.88 90)
 			(effects
 				(font
@@ -6411,7 +6438,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0710RL"
+		(property "Part Number" "RC0603FR-0747RL"
 			(at 229.87 58.42 0)
 			(effects
 				(font
@@ -6567,7 +6594,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "47"
 			(at 229.87 92.71 90)
 			(effects
 				(font
@@ -6611,7 +6638,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0710RL"
+		(property "Part Number" "RC0603FR-0747RL"
 			(at 229.87 95.25 0)
 			(effects
 				(font
@@ -6987,7 +7014,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/SDM4A40EP3.pdf"
 			(at 210.82 125.73 0)
 			(effects
 				(font
@@ -7033,6 +7060,15 @@
 			)
 		)
 		(property "Voltage" "40"
+			(at 210.82 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" "SDT4U40EP3-7B "
 			(at 210.82 125.73 0)
 			(effects
 				(font
@@ -7233,7 +7269,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KRX5R7BB104"
+		(property "Part Number" "GRM155R61H104KE14D"
 			(at 80.01 105.41 0)
 			(effects
 				(font
@@ -7242,7 +7278,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "Murata"
 			(at 80.01 105.41 0)
 			(effects
 				(font
@@ -7251,7 +7287,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "16"
+		(property "Voltage" "50"
 			(at 80.01 105.41 0)
 			(effects
 				(font
@@ -8121,7 +8157,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/SDM4A40EP3.pdf"
 			(at 118.11 124.46 0)
 			(effects
 				(font
@@ -8167,6 +8203,15 @@
 			)
 		)
 		(property "Voltage" "40"
+			(at 118.11 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" "SDT4U40EP3-7B "
 			(at 118.11 124.46 0)
 			(effects
 				(font
@@ -8329,7 +8374,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "47"
 			(at 229.87 129.54 90)
 			(effects
 				(font
@@ -8373,7 +8418,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0710RL"
+		(property "Part Number" "RC0603FR-0747RL"
 			(at 229.87 132.08 0)
 			(effects
 				(font
@@ -8443,7 +8488,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/SDM4A40EP3.pdf"
 			(at 210.82 88.9 0)
 			(effects
 				(font
@@ -8489,6 +8534,15 @@
 			)
 		)
 		(property "Voltage" "40"
+			(at 210.82 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" "SDT4U40EP3-7B "
 			(at 210.82 88.9 0)
 			(effects
 				(font
@@ -8731,7 +8785,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "47"
 			(at 137.16 55.88 90)
 			(effects
 				(font
@@ -8775,7 +8829,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0710RL"
+		(property "Part Number" "RC0603FR-0747RL"
 			(at 137.16 58.42 0)
 			(effects
 				(font
@@ -9131,7 +9185,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "47"
 			(at 137.16 128.27 90)
 			(effects
 				(font
@@ -9175,7 +9229,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0710RL"
+		(property "Part Number" "RC0603FR-0747RL"
 			(at 137.16 130.81 0)
 			(effects
 				(font
@@ -9909,7 +9963,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 92.4052 35.56 0)
 			(effects
 				(font
@@ -9936,7 +9990,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GRM155R61E102KA01D"
+		(property "Part Number" "GRM21BR61H106KE43L"
 			(at 91.44 31.75 0)
 			(effects
 				(font
@@ -9945,7 +9999,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "Murata"
 			(at 91.44 31.75 0)
 			(effects
 				(font
@@ -9954,7 +10008,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "10"
+		(property "Voltage" "50"
 			(at 91.44 31.75 0)
 			(effects
 				(font
@@ -10004,7 +10058,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "47"
 			(at 229.87 145.034 90)
 			(effects
 				(font
@@ -10048,7 +10102,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0710RL"
+		(property "Part Number" "RC0603FR-0747RL"
 			(at 229.87 147.32 0)
 			(effects
 				(font
@@ -10230,7 +10284,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "47"
 			(at 137.16 92.71 90)
 			(effects
 				(font
@@ -10274,7 +10328,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0710RL"
+		(property "Part Number" "RC0603FR-0747RL"
 			(at 137.16 95.25 0)
 			(effects
 				(font
@@ -10324,7 +10378,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "47"
 			(at 229.87 71.374 90)
 			(effects
 				(font
@@ -10368,7 +10422,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0710RL"
+		(property "Part Number" "RC0603FR-0747RL"
 			(at 229.87 73.66 0)
 			(effects
 				(font
@@ -10456,7 +10510,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0402KRX5R7BB104"
+		(property "Part Number" "GRM155R61H104KE14D"
 			(at 80.01 31.75 0)
 			(effects
 				(font
@@ -10465,7 +10519,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "Murata"
 			(at 80.01 31.75 0)
 			(effects
 				(font
@@ -10474,7 +10528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "16"
+		(property "Voltage" "50"
 			(at 80.01 31.75 0)
 			(effects
 				(font
@@ -10543,7 +10597,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://static.qingshow.net/fortiortech/file/1597746029372.pdf"
 			(at 50.8 124.46 0)
 			(effects
 				(font
