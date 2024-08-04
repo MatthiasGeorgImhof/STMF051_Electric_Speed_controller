@@ -3992,7 +3992,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SDM4A40EP3-7B"
+		(property "Value" "SDT4U40EP3-7B "
 			(at 120.65 53.6574 90)
 			(effects
 				(font
@@ -4001,7 +4001,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
+		(property "Footprint" "ProjectLibrary:X3-TSN1608-2"
 			(at 118.11 52.07 0)
 			(effects
 				(font
@@ -4010,7 +4010,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/SDM4A40EP3.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/SDT4U40EP3.pdf"
 			(at 118.11 52.07 0)
 			(effects
 				(font
@@ -4037,7 +4037,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "SDM4A40EP3-7B"
+		(property "Part Number" "SDT4U40EP3-7B "
 			(at 118.11 52.07 0)
 			(effects
 				(font
@@ -4064,7 +4064,7 @@
 				(hide yes)
 			)
 		)
-		(property "Note" "SDT4U40EP3-7B "
+		(property "Note" "SDM4A40EP3-7B"
 			(at 118.11 52.07 0)
 			(effects
 				(font
@@ -4402,7 +4402,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SDM4A40EP3-7B"
+		(property "Value" "SDT4U40EP3-7B "
 			(at 120.65 90.4874 90)
 			(effects
 				(font
@@ -4411,7 +4411,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
+		(property "Footprint" "ProjectLibrary:X3-TSN1608-2"
 			(at 118.11 88.9 0)
 			(effects
 				(font
@@ -4420,7 +4420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/SDM4A40EP3.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/SDT4U40EP3.pdf"
 			(at 118.11 88.9 0)
 			(effects
 				(font
@@ -4447,7 +4447,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "SDM4A40EP3-7B"
+		(property "Part Number" "SDT4U40EP3-7B "
 			(at 118.11 88.9 0)
 			(effects
 				(font
@@ -4474,7 +4474,7 @@
 				(hide yes)
 			)
 		)
-		(property "Note" "SDT4U40EP3-7B "
+		(property "Note" "SDM4A40EP3-7B"
 			(at 118.11 88.9 0)
 			(effects
 				(font
@@ -5339,7 +5339,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SDM4A40EP3-7B"
+		(property "Value" "SDT4U40EP3-7B "
 			(at 213.36 53.6574 90)
 			(effects
 				(font
@@ -5348,7 +5348,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
+		(property "Footprint" "ProjectLibrary:X3-TSN1608-2"
 			(at 210.82 52.07 0)
 			(effects
 				(font
@@ -5357,7 +5357,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/SDM4A40EP3.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/SDT4U40EP3.pdf"
 			(at 210.82 52.07 0)
 			(effects
 				(font
@@ -5384,7 +5384,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "SDM4A40EP3-7B"
+		(property "Part Number" "SDT4U40EP3-7B "
 			(at 210.82 52.07 0)
 			(effects
 				(font
@@ -5411,7 +5411,7 @@
 				(hide yes)
 			)
 		)
-		(property "Note" "SDT4U40EP3-7B "
+		(property "Note" "SDM4A40EP3-7B"
 			(at 210.82 52.07 0)
 			(effects
 				(font
@@ -6996,7 +6996,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SDM4A40EP3-7B"
+		(property "Value" "SDT4U40EP3-7B "
 			(at 213.36 127.3174 90)
 			(effects
 				(font
@@ -7005,7 +7005,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
+		(property "Footprint" "ProjectLibrary:X3-TSN1608-2"
 			(at 210.82 125.73 0)
 			(effects
 				(font
@@ -7014,7 +7014,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/SDM4A40EP3.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/SDT4U40EP3.pdf"
 			(at 210.82 125.73 0)
 			(effects
 				(font
@@ -7041,7 +7041,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "SDM4A40EP3-7B"
+		(property "Part Number" "SDT4U40EP3-7B "
 			(at 210.82 125.73 0)
 			(effects
 				(font
@@ -7068,7 +7068,7 @@
 				(hide yes)
 			)
 		)
-		(property "Note" "SDT4U40EP3-7B "
+		(property "Note" "SDM4A40EP3-7B"
 			(at 210.82 125.73 0)
 			(effects
 				(font
@@ -8139,7 +8139,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SDM4A40EP3-7B"
+		(property "Value" "SDT4U40EP3-7B "
 			(at 120.65 126.0474 90)
 			(effects
 				(font
@@ -8148,7 +8148,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
+		(property "Footprint" "ProjectLibrary:X3-TSN1608-2"
 			(at 118.11 124.46 0)
 			(effects
 				(font
@@ -8157,7 +8157,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/SDM4A40EP3.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/SDT4U40EP3.pdf"
 			(at 118.11 124.46 0)
 			(effects
 				(font
@@ -8184,7 +8184,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "SDM4A40EP3-7B"
+		(property "Part Number" "SDT4U40EP3-7B "
 			(at 118.11 124.46 0)
 			(effects
 				(font
@@ -8211,7 +8211,7 @@
 				(hide yes)
 			)
 		)
-		(property "Note" "SDT4U40EP3-7B "
+		(property "Note" "SDM4A40EP3-7B"
 			(at 118.11 124.46 0)
 			(effects
 				(font
@@ -8470,7 +8470,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SDM4A40EP3-7B"
+		(property "Value" "SDT4U40EP3-7B "
 			(at 213.36 90.4874 90)
 			(effects
 				(font
@@ -8479,7 +8479,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
+		(property "Footprint" "ProjectLibrary:X3-TSN1608-2"
 			(at 210.82 88.9 0)
 			(effects
 				(font
@@ -8488,7 +8488,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/SDM4A40EP3.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/SDT4U40EP3.pdf"
 			(at 210.82 88.9 0)
 			(effects
 				(font
@@ -8515,7 +8515,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "SDM4A40EP3-7B"
+		(property "Part Number" "SDT4U40EP3-7B "
 			(at 210.82 88.9 0)
 			(effects
 				(font
@@ -8542,7 +8542,7 @@
 				(hide yes)
 			)
 		)
-		(property "Note" "SDT4U40EP3-7B "
+		(property "Note" "SDM4A40EP3-7B"
 			(at 210.82 88.9 0)
 			(effects
 				(font
